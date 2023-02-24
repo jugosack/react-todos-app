@@ -19,6 +19,7 @@
 .todo-form {
   margin-top: 32px;
 }
+
 .input-edit {
   padding: 10px;
   margin: 5px;
@@ -29,6 +30,7 @@
   background: transparent;
   color: #000;
 }
+
 .input-add {
   padding: 10px;
   margin: 10px;
